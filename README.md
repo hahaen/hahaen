@@ -43,31 +43,6 @@ I am also a person who likes to organize and share my knowledge through blogs.At
 <code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/nginx.png"></code>
 <code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/redis.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   X hrs XX mins   ████████████░░░░░░░░░░░░░   XX.XX %
-JavaScript   X hrs XX mins   ███████████▓░░░░░░░░░░░░░   XX.XX %
-HTML         XX mins         █░░░░░░░░░░░░░░░░░░░░░░░░   XX.XX %
-JSON         X mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   XX.XX %
-SCSS         X min           ░░░░░░░░░░░░░░░░░░░░░░░░░   XX.XX %
-TOML         X secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   XX.XX %
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  xxxx Karma Points           
-🌸  Completed x tasks today           
-✅  Completed xxx tasks so far           
-⏳  Longest streak is xx days
-<!-- TODO-IST:END -->
-
-
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true&theme=gotham" alt="hahaen" />
