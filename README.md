@@ -26,7 +26,7 @@ I am also a person who likes to organize and share my knowledge through blogs.At
 <img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="500" height="320" />
 
 - 😄 [哈哈博客](http://hahaen.xyz/)
-- 💼 [email]()
+- 💼 If any work needs me, please let me know,my [email](). :)
 - 💬 Ask me about anything, i am happy to help.
 
 **languages and tools:**
@@ -68,7 +68,7 @@ TOML         X secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true&theme=gotham" alt="hahaen" />
 
