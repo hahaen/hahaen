@@ -21,21 +21,27 @@
 
 <br />
 
-你好,我是[hahaen](https://XXXXXX/),一名2022年的毕业生。
+hi, i'm [hahaen](https://XXXXXX/). A java developer who graduated in 2022 and a freedom development engineer from China.I am also a person who likes to organize and share my knowledge through blogs.At present, I am studying hard, please forgive me! 
 
-  <img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="500" height="320" />
 
-- 💼 [email](邮箱) :)
-- 💬 
+- [哈哈博客](http://hahaen.xyz/)
+- [email]()
+- ask me about anything, i am happy to help.
 
 **languages and tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/java.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/linux.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/Docker.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/bxl-spring-boot.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/html.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/css.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/java-script.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/mysql.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/nginx.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/git.png"></code>
+<code><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/redis.png.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
