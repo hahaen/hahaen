@@ -1,6 +1,6 @@
 
-<h1>
-  <a align="center" href="https://github.com/hahaen">
+<h1 align="center">
+  <a href="https://github.com/hahaen">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎您来到hahaen的主页!;祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
@@ -41,6 +41,8 @@ forgive me!
 <code> <a href="https://www.cloudquery.club/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/CloudQuery.png"></a> </code>
 
 <h1></h1>
+
+<br>
 
 🏆 **My Github Profile Trophy**
 
