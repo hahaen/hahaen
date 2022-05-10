@@ -5,13 +5,11 @@
   </a>
 </h1>
 
-<br>
+![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
 
 <a href="https://t.me/ihahaen">
   <img align="left" alt="hahaen's Telegram" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/telegram.png" />
 </a>
-
-![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
 
 Hi, i'm [hahaen](https://github.com/hahaen). A java developer who graduated in 2022 and a freedom development engineer from China.
 
@@ -41,8 +39,6 @@ forgive me!
 <code> <a href="https://gitlab.com/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/gitlab.png"></a> </code>
 <code> <a href="https://nodejs.org/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/nodejs.png"></a> </code>
 <code> <a href="https://www.cloudquery.club/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/CloudQuery.png"></a> </code>
-
-<br>
 
 <h1></h1>
 
