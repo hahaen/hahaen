@@ -5,11 +5,11 @@
   </a>
 </h1>
 
-![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
-
 <a href="https://t.me/ihahaen">
   <img align="left" alt="hahaen's Telegram" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/telegram.png" />
 </a>
+
+![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
 
 Hi, i'm [hahaen](https://github.com/hahaen). A java developer who graduated in 2022 and a freedom development engineer from China.
 
