@@ -1,6 +1,6 @@
 
-<h1 align="center">
-  <a href="https://github.com/hahaen">
+<h1>
+  <a align="center" href="https://github.com/hahaen">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎您来到hahaen的主页!;祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
@@ -40,7 +40,7 @@ forgive me!
 <code> <a href="https://nodejs.org/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/nodejs.png"></a> </code>
 <code> <a href="https://www.cloudquery.club/"><img height="20" src="https://github.com/hahaen/hahaen/blob/main/images/CloudQuery.png"></a> </code>
 
----
+<h1></h1>
 
 🏆 **My Github Profile Trophy**
 
@@ -48,11 +48,15 @@ forgive me!
   <img  src="https://github-profile-trophy.vercel.app/?username=hahaen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<br>
+
 🌸 **My Github Streak**
 
 <div align="">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hahaen" />
 </div>
+
+<br>
 
 📈 **My Github Stats**
 
