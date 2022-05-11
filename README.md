@@ -62,4 +62,4 @@ forgive me!
 
 📈 **My Github Stats**
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true&theme=gotham" alt="hahaen" />
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true" alt="hahaen" />
