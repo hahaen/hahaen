@@ -18,7 +18,7 @@ forgive me!
 
 <img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="300" height="192" />
 
-- 😄 [哈哈博客](http://idpeng.xyz/)
+- 😄 [哈哈博客](http://hahaen.github.io/)
 - 💼 If any work needs me, please let me know,my [email](mailto:ihahaen@163.com). :)
 - 💬 Ask me about anything, i am happy to help.
 
