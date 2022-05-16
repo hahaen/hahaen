@@ -46,20 +46,22 @@ forgive me!
 
 🏆 **My Github Profile Trophy**
 
-<div >
+<a href="https://github-profile-trophy.vercel.app/?username=hahaen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true">
   <img  src="https://github-profile-trophy.vercel.app/?username=hahaen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
+</a>
 
 <br>
 
 🌸 **My Github Streak**
 
-<div >
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=hahaen">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hahaen" />
-</div>
+</a>
 
 <br>
 
 📈 **My Github Stats**
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true" alt="hahaen" />
+<a href="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true"> 
+<img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true" alt="hahaen" />
+</a>
