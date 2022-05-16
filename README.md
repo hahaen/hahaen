@@ -9,14 +9,18 @@
   <img align="left" alt="hahaen's Telegram" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/telegram.png" />
 </a>
 
+<a href="https://t.me/ihahaen">
 ![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
+</a>
 
 Hi, i'm [hahaen](https://github.com/hahaen). A java developer who graduated in 2022 and a freedom development engineer from China.
 
 I am also a person who likes to organize and share my knowledge through blogs.At present, I am studying hard, please
 forgive me!
 
+<a href="https://t.me/ihahaen">
 <img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="300" height="192" />
+</a>
 
 - 😄 [哈哈博客](http://hahaen.github.io/)
 - 💼 If any work needs me, please let me know,my [email](mailto:ihahaen@163.com). :)
