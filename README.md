@@ -54,7 +54,7 @@ forgive me!
 
 🌸 **My Github Streak**
 
-<div align="">
+<div >
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hahaen" />
 </div>
 
@@ -62,4 +62,4 @@ forgive me!
 
 📈 **My Github Stats**
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true" alt="hahaen" />
+<p > <img src="https://github-readme-stats.vercel.app/api?username=hahaen&show_icons=true" alt="hahaen" />
