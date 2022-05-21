@@ -17,7 +17,7 @@ I am also a person who likes to organize and share my knowledge through blogs.At
 forgive me!
 
 <a href="https://github.com/hahaen">
-<img align="center" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="300" height="192" />
+<img align="right" alt="GIF" src="https://github.com/hahaen/hahaen/blob/main/images/code.gif?raw=true" width="300" height="192" />
 </a>
 
 - 😄 [哈哈博客](http://hahaen.github.io/)
