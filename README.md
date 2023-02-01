@@ -9,7 +9,7 @@
   <img align="left" alt="hahaen's Telegram" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/telegram.png" />
 </a>
 
-<a href="https://github.com/hahaen/hahaen/blob/main/images/mysql.png">
+<a href="https://github.com/hahaen/hahaen/blob/main/images/myself.png">
   <img align="left" alt="hahaen's WeChat" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/wx.png" />
 </a>
 
