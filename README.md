@@ -5,16 +5,6 @@
   </a>
 </h1>
 
-<a href="https://t.me/ihahaen">
-  <img align="left" alt="hahaen's Telegram" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/telegram.png" />
-</a>
-
-<a href="https://github.com/hahaen/hahaen/blob/main/images/myself.png">
-  <img align="left" alt="hahaen's WeChat" width="22px" src="https://github.com/hahaen/hahaen/blob/main/images/wx.png" />
-</a>
-
-![github访问统计](https://visitor-badge.glitch.me/badge?page_id=hahaen.hahaen)
-
 Hi, i'm [hahaen](https://github.com/hahaen). A java developer who graduated in 2022 and a freedom development engineer from China.
 
 I am also a person who likes to organize and share my knowledge through blogs.At present, I am studying hard, please
